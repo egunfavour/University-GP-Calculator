@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\bin\Debug\net6.0\GPA_CALCULATOR.exe
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\bin\Debug\net6.0\GPA_CALCULATOR.deps.json
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\bin\Debug\net6.0\GPA_CALCULATOR.runtimeconfig.json
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\bin\Debug\net6.0\GPA_CALCULATOR.dll
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\bin\Debug\net6.0\GPA_CALCULATOR.pdb
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\GPA_CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\GPA_CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\GPA_CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\GPA_CALCULATOR.AssemblyInfo.cs
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\GPA_CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\GPA_CALCULATOR.dll
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\refint\GPA_CALCULATOR.dll
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\GPA_CALCULATOR.pdb
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\GPA_CALCULATOR.genruntimeconfig.cache
+C:\Users\hp\Desktop\WEEK 1 TASK\TASK_1\TASK_1\obj\Debug\net6.0\ref\GPA_CALCULATOR.dll
